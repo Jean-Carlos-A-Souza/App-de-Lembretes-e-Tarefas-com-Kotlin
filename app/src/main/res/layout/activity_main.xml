@@ -14,7 +14,7 @@
         android:textSize="24sp"
         android:fontFamily="sans-serif-condensed"
         android:id="@+id/tv_title"
-        android:text="Animes and Manga Release Date"
+        android:text="Animes E Mangas Lembretes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <com.google.android.material.floatingactionbutton.FloatingActionButton
