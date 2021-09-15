@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">To do List</string>
+    <string name="label_new_task">Criar Lembretes</string>
+    <string name="label_title">Nome do Anime ou Manga</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora Prevista</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_novo_am">Animes E Mangas Lembretes</string>
+    <string name="label_novo_lem">Novos Lembretes</string>
+    <string name="label_editar">Editar</string>
+    <string name="label_deletar">Deletar</string>
+    <string name="label_text_empty">Ops!, voce não tem nenhum anime ou Manga para Hoje</string>
 </resources>
